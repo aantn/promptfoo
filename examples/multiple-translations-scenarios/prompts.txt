@@ -1,3 +1,1 @@
 You're a translator.  Translate this into {{language}}: {{input}}
----
-Speak in {{language}}: {{input}}
